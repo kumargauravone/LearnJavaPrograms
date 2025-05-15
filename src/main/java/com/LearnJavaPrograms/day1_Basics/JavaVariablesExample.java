@@ -1,4 +1,4 @@
-package com.LearnJavaPrograms.javaBasics;
+package com.LearnJavaPrograms.day1_Basics;
 
 public class JavaVariablesExample {
 	

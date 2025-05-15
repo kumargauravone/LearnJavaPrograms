@@ -1,4 +1,4 @@
-package com.LearnJavaPrograms.javaBasics;
+package com.LearnJavaPrograms.day1_Basics;
 
 import com.LearnJavaPrograms.javaBasics.allMethods.AllMethods;
 
