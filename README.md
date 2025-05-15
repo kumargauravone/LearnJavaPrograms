@@ -1,11 +1,11 @@
 
 ## ✍️ Author
 
-- Author : Pramod Dutta
-- Email : contact@thetestingacademy.com
+- Author : Kumar Gaurav
+- Email : qakumargaurav@gmail.com
 
 
-# LearnJavaPrograms
+# Learn Java Programs
 
 🚀 This repository contains a structured collection of Java programs written for learning, daily practice, and interview preparation. The programs are organized day-wise based on a 10-day Java learning roadmap — each day targeting specific core Java concepts and real-world problem-solving patterns.
 
