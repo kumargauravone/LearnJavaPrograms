@@ -35,5 +35,16 @@ public class AllMethods {
 		System.out.println("After swap the number are::"+number1+" "+number2);
 		
 	}
+	
+	/**
+	 * This method is check the given number is Odd or Even
+	 * @param number
+	 */
+	public static void oddEvenChecker(int number) {
+		if(number%2 == 0) {
+			System.out.println(number+" is Even number");
+		}else
+			System.out.println(number+" is Odd number");
+	}
 
 }
